@@ -17,4 +17,4 @@ Criteria for password should include:
 User can find deployed app at [GitHub](https://github.com/Babylex710/Password-Generator).
 
 The following image shows the web application's appearance:
-![alt screenshot](./Develop/assests/03-javascript-homework-demo.png)
+![alt screenshot](./assets/03-javascript-homework-demo.png)
